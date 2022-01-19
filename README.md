@@ -1,6 +1,3 @@
-# About-Me
-This repository is about my previous experience and my personal details.
-
 # Saikumar Mylavarapu
 
 ## Current 
@@ -27,6 +24,6 @@ This repository is about my previous experience and my personal details.
 
 - [LinkedIn Profile ](https://www.linkedin.com/in/saikumar-mylavarapu-46b808124/)
 
-> My photo
+> My image
 
 ![Photo](https://media-exp1.licdn.com/dms/image/C5603AQGj7QNYMRIItA/profile-displayphoto-shrink_800_800/0/1633620327014?e=1648080000&v=beta&t=0WqlBn_xzFYIKjILEay72-Cvsz6uOrNEWbLdg41__PI)
